@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script type="text/javascript" id="ca_eum_ba" agent=browser src="https://cloud.ca.com/mdo/v1/sdks/browser/BA.js" data-profileUrl="https://collector-axa.cloud.ca.com/api/1/urn:ca:tenantId:CACDNA01-USERSTORE/urn:ca:appId:CA%20Modern%20Software%20Factory%20ROBERTO/profile?agent=browser" data-tenantID="CACDNA01-USERSTORE" data-appID="CA Modern Software Factory ROBERTO" data-appKey="2f1eba00-56bd-11e7-b3c4-abb9668df6be" ></script>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
